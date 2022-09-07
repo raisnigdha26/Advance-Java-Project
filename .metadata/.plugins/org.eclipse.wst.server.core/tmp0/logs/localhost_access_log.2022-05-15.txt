@@ -1,0 +1,5 @@
+127.0.0.1 - - [15/May/2022:21:37:35 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [15/May/2022:21:37:36 +0530] "GET /AttendanceSystem/form1.html HTTP/1.1" 200 1033
+0:0:0:0:0:0:0:1 - - [15/May/2022:21:37:37 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [15/May/2022:21:37:51 +0530] "POST /AttendanceSystem/DateAttendance HTTP/1.1" 200 72
+0:0:0:0:0:0:0:1 - - [15/May/2022:21:40:13 +0530] "GET /AttendanceSystem/data.jsp HTTP/1.1" 500 3342

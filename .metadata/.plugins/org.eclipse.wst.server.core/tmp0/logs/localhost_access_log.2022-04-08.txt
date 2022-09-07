@@ -1,0 +1,8 @@
+127.0.0.1 - - [08/Apr/2022:13:35:52 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [08/Apr/2022:13:35:54 +0530] "GET /AttendanceSystem/form1.html HTTP/1.1" 200 1033
+0:0:0:0:0:0:0:1 - - [08/Apr/2022:13:35:54 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [08/Apr/2022:13:42:40 +0530] "POST /AttendanceSystem/DateAttendance HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [08/Apr/2022:13:43:39 +0530] "GET /JSP_Project/login.jsp HTTP/1.1" 500 2418
+0:0:0:0:0:0:0:1 - - [08/Apr/2022:13:47:31 +0530] "GET /JSP_Project/login.jsp HTTP/1.1" 500 2418
+0:0:0:0:0:0:0:1 - - [08/Apr/2022:13:47:59 +0530] "GET /JSP_Project/login.jsp HTTP/1.1" 500 2401
+0:0:0:0:0:0:0:1 - - [08/Apr/2022:13:48:32 +0530] "GET /JSP_Project/login.jsp HTTP/1.1" 500 2192
